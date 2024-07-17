@@ -9,7 +9,7 @@ const ContactUs = () => {
           Contact Us
         </div>
         <div className="my-auto text-lg font-space-grotesk">
-          Connect with Us: Let's Discuss Your Digital Marketing Needs
+          Connect with Us: Lets Discuss Your Digital Marketing Needs
         </div>
       </div>
       <div className="flex justify-center items-center px-16 mt-16 w-full max-md:px-5 max-md:mt-10 max-md:max-w-full">
@@ -36,13 +36,13 @@ const ContactUs = () => {
                   Name
                 </div>
                 <div className="mt-6 text-base leading-7 text-black max-md:max-w-full font-space-grotesk">
-                  Email*
+                  Email
                 </div>
                 <div className="justify-center items-start px-8 py-5 mt-1.5 text-lg font-space-grotesk whitespace-nowrap bg-white rounded-2xl border border-black border-solid text-zinc-500 max-md:px-5 max-md:max-w-full">
                   Email
                 </div>
                 <div className="mt-6 text-base leading-7 text-black font-space-grotesk max-md:max-w-full">
-                  Message*
+                  Message
                 </div>
                 <div className="justify-center items-start px-8 pt-5 pb-14 mt-1.5 text-lg font-space-grotesk whitespace-nowrap bg-white rounded-2xl border border-black border-solid text-zinc-500 max-md:px-5 max-md:max-w-full">
                   Message
